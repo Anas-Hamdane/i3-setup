@@ -30,6 +30,7 @@ wireless _first_ {
 
 battery all {
         format = "Breath: %status %percentage"
+        last_full_capacity = true
 }
 
 disk "/" {
