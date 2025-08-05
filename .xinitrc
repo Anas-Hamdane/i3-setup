@@ -1,5 +1,8 @@
 # !/bin/sh
 
+# picom
+picom &
+
 # natural scrolling for my touchpad
 xinput set-prop "Synaptics TM3053-003" "libinput Natural Scrolling Enabled" 1
 
