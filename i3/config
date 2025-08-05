@@ -161,3 +161,5 @@ bar {
 
 bindsym $mod+x exec --no-startup-id boomer
 bindsym $mod+o exec --no-startup-id firefox
+
+bindsym $mod+n exec --no-startup-id (i3lock -i ~/Pictures/Backgrounds/Back.jpg)
