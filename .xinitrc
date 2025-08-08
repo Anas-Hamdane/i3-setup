@@ -15,6 +15,10 @@ feh --bg-scale ~/Pictures/Backgrounds/Back.jpg
 # repeat rate
 xset r rate 200 35
 
+# keyboard mapping
+setxkbmap -layout fr,us
+setxkbmap -option 'grp:alt_shift_toggle'
+
 # kdeconnect
 kdeconnectd &
 kdeconnect-indicator &
